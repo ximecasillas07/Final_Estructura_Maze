@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\eadca0ed3bf91cee97f4b1564acf31f1\raygui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\e2b849d9815c0889a5ada89344a677a6\raygui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\bc983c90706db6d88a7d69df3eeb9d52\raygui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raygui-subbuild\CMakeFiles\raygui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{96891B2E-0753-3EAB-B2B1-0C2AA243ED67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

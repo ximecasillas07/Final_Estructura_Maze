@@ -1,0 +1,3 @@
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/ZERO_CHECK.dir

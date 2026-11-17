@@ -1,0 +1,10 @@
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\AD23E73C60FF87C0D91765460AC2C632\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild -BC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

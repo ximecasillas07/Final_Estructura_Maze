@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/ad23e73c60ff87c0d91765460ac2c632/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/2d7b63e0f6e9d115e26edc3d009a168c/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/63dc4ad0d8c0410e39d1d33abc42ad3e/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

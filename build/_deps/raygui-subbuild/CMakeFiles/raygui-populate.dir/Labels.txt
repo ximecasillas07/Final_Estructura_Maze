@@ -1,0 +1,14 @@
+# Target labels
+ raygui-populate
+# Source files and their labels
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/raygui-populate
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/bc983c90706db6d88a7d69df3eeb9d52/raygui-populate.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/e2b849d9815c0889a5ada89344a677a6/raygui-populate-complete.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-build.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-configure.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-download.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-install.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-mkdir.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-patch.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-test.rule
+C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-update.rule

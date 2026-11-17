@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/raygui-populate"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/bc983c90706db6d88a7d69df3eeb9d52/raygui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/e2b849d9815c0889a5ada89344a677a6/raygui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raygui-subbuild/CMakeFiles/eadca0ed3bf91cee97f4b1564acf31f1/raygui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raygui-populate"
+		],
+		"name" : "raygui-populate"
+	}
+}

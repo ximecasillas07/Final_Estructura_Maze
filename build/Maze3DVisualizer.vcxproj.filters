@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\core\Maze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\core\MazeSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\render\CameraController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\render\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\render\MazeRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\ui\FileDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\src\ui\UIManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BECE9F49-74B6-3F3E-8F48-355A246D3B71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

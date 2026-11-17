@@ -1,0 +1,10 @@
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\CMAKEFILES\206CC331DA2486568AC30617C8F039C1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz -BC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/Maze3DVisualizer.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

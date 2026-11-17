@@ -1,0 +1,150 @@
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raylib-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\63DC4AD0D8C0410E39D1D33ABC42AD3E\RAYLIB-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\xacg1\OneDrive\Escritorio\Estructura\Final_Interfaz\build\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\2D7B63E0F6E9D115E26EDC3D009A168C\RAYLIB-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/Debug/raylib-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\AD23E73C60FF87C0D91765460AC2C632\RAYLIB-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\XACG1\ONEDRIVE\ESCRITORIO\ESTRUCTURA\FINAL_INTERFAZ\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild -BC:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild --check-stamp-file C:/Users/xacg1/OneDrive/Escritorio/Estructura/Final_Interfaz/build/_deps/raylib-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
